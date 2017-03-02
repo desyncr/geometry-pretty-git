@@ -2,6 +2,8 @@
 
 [Geometry](https://github.com/frmendes/geometry)'s prompt plugin from [here](https://github.com/frmendes/geometry/blob/master/plugins/README.md).
 
+![screenshot](screenshot.png)
+
 ## Feedback
 
 If you'd like to contribute to the project or file a bug or feature request, please visit
